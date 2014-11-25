@@ -1,4 +1,4 @@
 database-fizteh
 ===============
 
-Key-value database implementation created during fizteh java course.
+Key-value database implementation created during MIPT java course.
